@@ -1,0 +1,15 @@
+# The url of the rss feed for this podcast
+rss_url: http://adventurezone.libsyn.com/rss
+
+# The number of recent episodes to download.
+# This only has an effect on the first run. If more than this amount has been 
+# missed since last aggregation, all missing files will be downloaded.
+# If download_amount is 0 all available files will be downloaded.
+download_amount: 0
+
+# Uncomment to change the above behavior. Only the download_amount will be 
+# downloaded even if more files are missing since last aggregation.
+# This is True by default.
+# NOTE: This option is not yet implemented.
+# download_all_missing: 0
+
